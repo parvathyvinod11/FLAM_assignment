@@ -1,0 +1,5 @@
+Desmos Parametric Equations
+Domain: 6 <= t <= 60
+
+x(t) = t*cos(0.523599) - exp(0.030001*abs(t))*sin(0.3*t)*sin(0.523599) + 54.9968
+y(t) = 42 + t*sin(0.523599) + exp(0.030001*abs(t))*sin(0.3*t)*cos(0.523599)
